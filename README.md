@@ -1,21 +1,20 @@
-# SCT_WD_1
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-# 🌐 Simple Landing Page
+# Run and deploy your AI Studio app
 
-A clean and responsive landing page built with **HTML**, **CSS**, and optional **JavaScript**.  
-Perfect for showcasing products, personal portfolios, or startup websites.
+This contains everything you need to run your app locally.
 
----
+View your app in AI Studio: https://ai.studio/apps/drive/1X9Y1vT73SgaSTB975yWjlEXkAP0uwwjs
 
-## 🚀 Features
+## Run Locally
 
-- Fully responsive layout
-- Modern design with smooth scrolling
-- Clean HTML and CSS code
-- Ready to deploy
-
----
-
-<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/7c8cb23e-23a1-4be2-85d7-25d4fc59ae67" />
+**Prerequisites:**  Node.js
 
 
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
