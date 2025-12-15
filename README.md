@@ -1,20 +1,81 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1X9Y1vT73SgaSTB975yWjlEXkAP0uwwjs
-
-## Run Locally
-
-**Prerequisites:**  Node.js
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+<img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/d90818df-76b3-41f0-9091-d659c77d7515" />
+
+---
+
+<img width="1897" height="873" alt="image" src="https://github.com/user-attachments/assets/db742574-ad0f-4e8e-9a2d-42bff925b7a9" />
+
+---
+📦 Skylark AI Shipping Cost Advisor
+
+An AI-powered frontend logistics advisory tool that helps users compare shipping options, estimate delivery cost, and receive smart recommendations using Gemini Pro API.
+
+🚀 Overview
+
+Skylark AI Shipping Cost Advisor allows customers to:
+
+Enter pickup and delivery cities
+
+Specify parcel weight
+
+Instantly compare Standard, Speed, and Express shipping options
+
+Get AI-powered recommendations on the best shipping choice based on cost and delivery time
+
+The project focuses on customer experience and logistics decision support using only frontend technologies and APIs.
+
+🧠 Key Features
+
+📍 City-based shipping estimation
+
+⚖️ Weight-based rate calculation
+
+💰 Multiple shipping options comparison
+
+🤖 Gemini Pro AI Insight for smart recommendations
+
+🎯 Highlighted “Recommended” shipping option
+
+📱 Fully responsive, clean UI
+
+🛠 Tech Stack
+
+HTML, CSS, JavaScript
+
+Gemini Pro API (AI recommendations)
+
+Frontend-only logic
+
+❌ No backend
+
+❌ No database
+
+🤖 AI Usage (Gemini Pro)
+
+Gemini Pro is used to:
+
+Analyze user inputs (cities, weight, urgency)
+
+Recommend the most suitable shipping option
+
+Explain trade-offs between cost and delivery speed in simple language
+
+AI responses are restricted to logistics and shipping domain only.
+
+📌 Use Case
+
+Courier & logistics websites
+
+Cost comparison before shipment
+
+Customer consultation & sales support
+
+Internship / academic demonstration of AI + frontend integration
+
+⚠️ Disclaimer
+
+This is a frontend demonstration project created for learning and internship purposes.
+All prices and delivery timelines are indicative and simulated.
+
